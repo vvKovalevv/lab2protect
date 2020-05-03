@@ -1,4 +1,4 @@
 vegetable
-potato
-cucumber
-tomato
+boiled potato
+fresh cucumber
+fried tomato
