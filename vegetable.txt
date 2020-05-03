@@ -4,3 +4,7 @@ cucumber
 tomato
 garlic
 onion
+boiled potato
+fresh cucumber
+fried tomato
+
