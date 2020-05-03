@@ -2,3 +2,5 @@ vegetable
 potato
 cucumber
 tomato
+garlic
+onion
