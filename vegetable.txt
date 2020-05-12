@@ -7,4 +7,5 @@ onion
 boiled potato
 fresh cucumber
 fried tomato
+protect
 
